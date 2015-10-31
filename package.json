@@ -1,0 +1,19 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "A simple slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyreynold/slider.git"
+  },
+  "author": "Lynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobyreynold/slider/issues"
+  },
+  "homepage": "https://github.com/tobyreynold/slider#readme"
+}
